@@ -1,6 +1,5 @@
 {
-  "alias": "moltin-shippo-integration.now.sh",
-  "dotenv": true,
+  "alias": "ep-shippo-rates.now.sh",
   "env": {
     "NODE_ENV": "production",
     "MOLTIN_SECRET_KEY": "@moltin-secret-key",
